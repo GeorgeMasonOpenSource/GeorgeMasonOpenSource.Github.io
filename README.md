@@ -1,3 +1,3 @@
-# GeorgeMasonReco.Github.io
+# GeorgeMasonOpenSource.Github.io
 
-My Github Webpage - georgemasonreco.github.io
+My Github Webpage - georgemasonopensource.github.io
